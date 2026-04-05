@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-04-05T07:33:30Z",
-  "fetched_mel": "5 Apr 2026, 6:33 PM AEDT",
+  "fetched_at": "2026-04-05T09:30:02Z",
+  "fetched_mel": "5 Apr 2026, 8:30 PM AEDT",
   "locations": [
     {
       "meta": {
@@ -12,21 +12,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-05T17:30",
+        "time": "2026-04-05T19:30",
         "interval": 900,
-        "temperature_2m": 23.1,
-        "apparent_temperature": 22.2,
+        "temperature_2m": 19.9,
+        "apparent_temperature": 20.4,
         "weather_code": 2,
-        "wind_speed_10m": 9.8,
-        "wind_gusts_10m": 27.7,
-        "wind_direction_10m": 28,
-        "relative_humidity_2m": 49,
+        "wind_speed_10m": 1.8,
+        "wind_gusts_10m": 9.7,
+        "wind_direction_10m": 53,
+        "relative_humidity_2m": 63,
         "precipitation": 0.0,
-        "cloud_cover": 57,
-        "surface_pressure": 1017.8,
+        "cloud_cover": 66,
+        "surface_pressure": 1018.1,
         "visibility": 24140.0,
-        "uv_index": 0.85,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -2737,21 +2737,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-05T17:30",
+        "time": "2026-04-05T19:30",
         "interval": 900,
-        "temperature_2m": 24.1,
-        "apparent_temperature": 23.5,
-        "weather_code": 2,
-        "wind_speed_10m": 8.2,
-        "wind_gusts_10m": 23.8,
-        "wind_direction_10m": 23,
-        "relative_humidity_2m": 46,
+        "temperature_2m": 21.2,
+        "apparent_temperature": 22.0,
+        "weather_code": 3,
+        "wind_speed_10m": 2.5,
+        "wind_gusts_10m": 10.1,
+        "wind_direction_10m": 98,
+        "relative_humidity_2m": 61,
         "precipitation": 0.0,
-        "cloud_cover": 63,
-        "surface_pressure": 1015.3,
+        "cloud_cover": 84,
+        "surface_pressure": 1015.5,
         "visibility": 24140.0,
-        "uv_index": 0.85,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -5462,21 +5462,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-05T17:30",
+        "time": "2026-04-05T19:30",
         "interval": 900,
-        "temperature_2m": 24.2,
-        "apparent_temperature": 23.6,
-        "weather_code": 2,
-        "wind_speed_10m": 8.2,
-        "wind_gusts_10m": 23.8,
-        "wind_direction_10m": 23,
-        "relative_humidity_2m": 46,
+        "temperature_2m": 21.3,
+        "apparent_temperature": 22.1,
+        "weather_code": 3,
+        "wind_speed_10m": 2.5,
+        "wind_gusts_10m": 10.1,
+        "wind_direction_10m": 98,
+        "relative_humidity_2m": 61,
         "precipitation": 0.0,
-        "cloud_cover": 63,
-        "surface_pressure": 1016.7,
+        "cloud_cover": 84,
+        "surface_pressure": 1016.9,
         "visibility": 24140.0,
-        "uv_index": 0.85,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -8187,21 +8187,21 @@
         "outlets": 1
       },
       "current": {
-        "time": "2026-04-05T17:30",
+        "time": "2026-04-05T19:30",
         "interval": 900,
-        "temperature_2m": 24.2,
-        "apparent_temperature": 23.6,
-        "weather_code": 2,
-        "wind_speed_10m": 8.2,
-        "wind_gusts_10m": 23.8,
-        "wind_direction_10m": 23,
-        "relative_humidity_2m": 46,
+        "temperature_2m": 21.3,
+        "apparent_temperature": 22.1,
+        "weather_code": 3,
+        "wind_speed_10m": 2.5,
+        "wind_gusts_10m": 10.1,
+        "wind_direction_10m": 98,
+        "relative_humidity_2m": 61,
         "precipitation": 0.0,
-        "cloud_cover": 63,
-        "surface_pressure": 1017.0,
+        "cloud_cover": 84,
+        "surface_pressure": 1017.2,
         "visibility": 24140.0,
-        "uv_index": 0.85,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
