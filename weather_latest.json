@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-04-06T06:30:03Z",
-  "fetched_mel": "6 Apr 2026, 5:30 PM AEDT",
+  "fetched_at": "2026-04-06T09:30:03Z",
+  "fetched_mel": "6 Apr 2026, 8:30 PM AEDT",
   "locations": [
     {
       "meta": {
@@ -12,21 +12,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-06T16:30",
+        "time": "2026-04-06T19:30",
         "interval": 900,
-        "temperature_2m": 21.2,
-        "apparent_temperature": 21.5,
+        "temperature_2m": 18.9,
+        "apparent_temperature": 18.7,
         "weather_code": 3,
-        "wind_speed_10m": 7.6,
-        "wind_gusts_10m": 20.9,
-        "wind_direction_10m": 31,
-        "relative_humidity_2m": 65,
+        "wind_speed_10m": 10.5,
+        "wind_gusts_10m": 20.5,
+        "wind_direction_10m": 16,
+        "relative_humidity_2m": 74,
         "precipitation": 0.0,
-        "cloud_cover": 100,
-        "surface_pressure": 1011.3,
+        "cloud_cover": 95,
+        "surface_pressure": 1011.0,
         "visibility": 24140.0,
-        "uv_index": 1.45,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -2737,21 +2737,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-06T16:30",
+        "time": "2026-04-06T19:30",
         "interval": 900,
-        "temperature_2m": 20.8,
-        "apparent_temperature": 20.9,
+        "temperature_2m": 19.3,
+        "apparent_temperature": 19.3,
         "weather_code": 3,
-        "wind_speed_10m": 9.2,
-        "wind_gusts_10m": 25.6,
-        "wind_direction_10m": 31,
-        "relative_humidity_2m": 66,
+        "wind_speed_10m": 10.0,
+        "wind_gusts_10m": 21.6,
+        "wind_direction_10m": 13,
+        "relative_humidity_2m": 73,
         "precipitation": 0.0,
-        "cloud_cover": 100,
-        "surface_pressure": 1009.1,
+        "cloud_cover": 98,
+        "surface_pressure": 1008.6,
         "visibility": 24140.0,
-        "uv_index": 1.45,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -5462,21 +5462,21 @@
         "outlets": 2
       },
       "current": {
-        "time": "2026-04-06T16:30",
+        "time": "2026-04-06T19:30",
         "interval": 900,
-        "temperature_2m": 20.9,
-        "apparent_temperature": 21.0,
+        "temperature_2m": 19.4,
+        "apparent_temperature": 19.4,
         "weather_code": 3,
-        "wind_speed_10m": 9.2,
-        "wind_gusts_10m": 25.6,
-        "wind_direction_10m": 31,
-        "relative_humidity_2m": 66,
+        "wind_speed_10m": 10.0,
+        "wind_gusts_10m": 21.6,
+        "wind_direction_10m": 13,
+        "relative_humidity_2m": 73,
         "precipitation": 0.0,
-        "cloud_cover": 100,
-        "surface_pressure": 1010.5,
+        "cloud_cover": 98,
+        "surface_pressure": 1010.0,
         "visibility": 24140.0,
-        "uv_index": 1.45,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
@@ -8187,21 +8187,21 @@
         "outlets": 1
       },
       "current": {
-        "time": "2026-04-06T16:30",
+        "time": "2026-04-06T19:30",
         "interval": 900,
-        "temperature_2m": 20.9,
-        "apparent_temperature": 21.0,
+        "temperature_2m": 19.4,
+        "apparent_temperature": 19.5,
         "weather_code": 3,
-        "wind_speed_10m": 9.2,
-        "wind_gusts_10m": 25.6,
-        "wind_direction_10m": 31,
-        "relative_humidity_2m": 66,
+        "wind_speed_10m": 10.0,
+        "wind_gusts_10m": 21.6,
+        "wind_direction_10m": 13,
+        "relative_humidity_2m": 73,
         "precipitation": 0.0,
-        "cloud_cover": 100,
-        "surface_pressure": 1010.8,
+        "cloud_cover": 98,
+        "surface_pressure": 1010.3,
         "visibility": 24140.0,
-        "uv_index": 1.45,
-        "is_day": 1
+        "uv_index": 0.0,
+        "is_day": 0
       },
       "hourly": {
         "time": [
